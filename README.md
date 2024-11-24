@@ -6,6 +6,7 @@
 - **Java**
 - **AWS Lambda**
 - **Amazon S3**
+- **API Gateway**
 - **AWS SDK para Java**
 - **Jackson ObjectMapper**
 
